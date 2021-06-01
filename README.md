@@ -3,6 +3,7 @@
 This is a simple, number guessing game played in the command line / terminal.
 
 ---
+To see a live demo of this app, click here: https://www.youtube.com/watch?v=spnk03Qzzro
 ### How To Play
 * Clone this repo.
 * Open your terminal and navigate to this repo's root directory.
